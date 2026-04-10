@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="79014c17-2e56-40dd-92c6-b156d79144df" name="CGCV_cq_A_672">
+        <fileTransfer accessType="SFTP" host="connect.cqa1.seetacloud.com" port="32387" sshConfigId="307dfeb2-5ae0-40ef-a7b4-c15cc1429e6c" sshConfig="autodl_cq_A_672">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c6e0294d-20bc-4ba6-8ff3-f138f410e462" name="CGCV_school">
+        <fileTransfer accessType="SFTP" host="43.167.226.226" port="6223" sshConfigId="56b001ae-dd5b-45c6-98b1-3ca514a4eab4" sshConfig="学校服务器(内网)">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
