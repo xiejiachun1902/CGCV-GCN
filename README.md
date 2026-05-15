@@ -3,7 +3,7 @@
 <i>Jiachun Xie, Binyuan Huang, Faliang Huang*, Jiayi Yao, Yuting Zhang, Guangqing Long, Demin Wu, and Shuochun Chen</i>
 
 Official implementation of the CGCV-GCN model. [[Paper Page]](https://ieeexplore.ieee.org/document/11477988)
-
+DOI: 10.1109/TAFFC.2026.3682272
 
 
 
