@@ -46,8 +46,11 @@ If this research proves beneficial to your work or project, please consider citi
 @ARTICLE{xie2026CGCVGCN,
   author={Xie, Jiachun and Huang, Binyuan and Huang, Faliang and Yao, Jiayi and Zhang, Yuting and Long, Guangqing and Wu, Demin and Chen, Shuochun},
   journal={IEEE Transactions on Affective Computing}, 
-  title={Cognition-guided Complex-valued Graph Convolutional Network for Gait Emotion Recognition}, 
+  title={Cognition-Guided Complex-Valued Graph Convolutional Network for Gait Emotion Recognition}, 
   year={2026},
-  pages={1-13}
-  }
+  volume={17},
+  number={3},
+  pages={2880-2892},
+  keywords={Antennas;Apertures;Feeds;System-on-chip;MIMICs;Millimeter wave integrated circuits;Monolithic integrated circuits;Band-pass filters;Filter banks;Filtering;Gait emotion recognition;complex-valued GCN;cross-representation domain fusion},
+  doi={10.1109/TAFFC.2026.3682272}}
 ````
