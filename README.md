@@ -51,6 +51,5 @@ If this research proves beneficial to your work or project, please consider citi
   volume={17},
   number={3},
   pages={2880-2892},
-  keywords={Antennas;Apertures;Feeds;System-on-chip;MIMICs;Millimeter wave integrated circuits;Monolithic integrated circuits;Band-pass filters;Filter banks;Filtering;Gait emotion recognition;complex-valued GCN;cross-representation domain fusion},
   doi={10.1109/TAFFC.2026.3682272}}
 ````
